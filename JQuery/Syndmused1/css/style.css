@@ -1,0 +1,59 @@
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#content {
+    overflow: auto;
+    width: 80%;
+    background: #f4f4f4;
+    margin: 30px auto 0 auto;
+    padding: 20px 30px;
+    border-radius: 8px;
+}
+h1 {
+    border-bottom: rgb(226, 53, 160) 1px solid;
+}
+h2 {
+    
+}
+.red-box {
+    float: left;
+    width: 100px;
+    height: 100px;
+    margin: 10px 10px 10px 0;
+    padding: 10px;
+    color: #fff;
+    background: #880000;
+}
+.green-box {
+    float: left;
+    width: 100px;
+    height: 100px;
+    margin: 10px 10px 10px 0;
+    padding: 10px;
+    color: #fff;
+    background: #008800;
+}
+.blue-box {
+    float: left;
+    width: 100px;
+    height: 100px;
+    margin: 10px 10px 10px 0;
+    padding: 10px;
+    color: #fff;
+    background: #000088;
+}
+.clear {
+    clear: both;
+}
+
+/*
+.gallery{
+    height: 400px;
+    position: relative;
+}
+.gallery img {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+}
+*/
